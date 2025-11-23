@@ -1,6 +1,7 @@
 {
   "singleplayer": {
-    "main": true
+    "main": true,
+    "MCEternal": true
   },
   "multiplayer": {
     "02d9291d-5c48-4628-a17f-ce308bb0b685": true,
